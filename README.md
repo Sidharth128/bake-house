@@ -8,22 +8,22 @@ Prerequisites
 
 Make sure you have the following installed on your machine:
 
-    Visual Studio Code (VSCode)
-    A modern web browser (e.g., Chrome, Firefox)
+Visual Studio Code (VSCode)  
+A modern web browser (e.g., Chrome, Firefox)
 
-Installation
+Installation:
 
-    Clone the Repository
+Clone the repository
 
-    Open your terminal or command prompt and clone the repository using the following command:
+Open your terminal or command prompt and clone the repository using the following command:  
 
-    bash
+bash
 
 git clone <repository-url>
 
 Replace <repository-url> with the actual URL of your GitHub repository.
 
-Navigate to the Project Folder
+Navigate to the Project Folder:
 
 Once the repository is cloned, navigate to the project folder:
 
@@ -33,7 +33,7 @@ cd <project-folder-name>
 
 Replace <project-folder-name> with the actual name of the project folder.
 
-Open the Project in VSCode
+Open the Project in VSCode:
 
 Open the project in VSCode by running the following command in your terminal:
 
@@ -41,7 +41,7 @@ bash
 
     code .
 
-    This command will open the current directory (the project folder) in VSCode.
+This command will open the current directory (the project folder) in VSCode.  
 
 Running the Project
 
@@ -61,8 +61,8 @@ Running the Project
 
 Features
 
-    Parallax scrolling effect
-    Clean and modern UI
+Parallax scrolling effect 
+Clean and modern UI
 
 Contributing
 
