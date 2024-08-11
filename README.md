@@ -39,7 +39,7 @@ Open the project in VSCode by running the following command in your terminal:
 
 bash
 
-    code .
+code .   
 
 This command will open the current directory (the project folder) in VSCode.  
 
